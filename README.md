@@ -22,12 +22,9 @@ Create a new HTML file in the static folder.
 Write the HTML code with relevant CSS properties.
 
 ### Step 6:
-Choose the appropriate style and color scheme.
-
-### Step 7:
 Insert the images in their appropriate places.
 
-### Step 8:
+### Step 7:
 Publish the website in the LocalHost.
 
 ## PROGRAM:
